@@ -1,1 +1,1 @@
-# ayush21082.github.io
+# https://the-kush.github.io/the-kush/
