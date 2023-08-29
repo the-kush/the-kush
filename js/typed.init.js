@@ -3,5 +3,5 @@ var typed = new Typed("#typed", {
   stringsElement: "#typed-strings",
   typeSpeed: 200,
   loop: true,
-  strings: ["App Developer", "Web Developer", "UI/UX Designer"],
+  strings: ["Web3 Developer", " Machine Learning Enthusiast", "Security Analyst"],
 });

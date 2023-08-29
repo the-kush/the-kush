@@ -2087,6 +2087,6 @@ button:not(:disabled) {
   padding: 0 0.5rem;
   border-radius: 4px;
   &.pressed {
-    background: $color-highlight;
+    background: color-highlight;
   }
 }
