@@ -5,9 +5,9 @@ I am a full stack developer and exploring new technologies like blockchain(Ether
 In my free time, I like to cycle, explore, read, and play games both outdoors & indoor
 
 My skills include:
-• Languages – C lang, C++  <br>
+• Languages – C lang, C++, R   <br>
 • Frontend – JavaScript, React Js, Nextjs, HTML, CSS  <br>
-• Backend – Node.js, Express.js, Solidity <br>
+• Backend – Node.js, Express.js, TypeScript, Solidity <br>
 • DevOps – Nginx <br>
 • Database – MongoDB, PostgreSQL, SQL <br>
 
