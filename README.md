@@ -1,4 +1,4 @@
-# https://the-kush.github.io/the-kush/
+# https://the-kush.vercel.app
 
 <h1 align="center">Hi 👋, I'm Kush Singh</h1>
 <h3 align="center">A passionate full-stack developer, and also a blockchain developer from India. I am currently learning machine learning(to get into the world of Artificial Intelligence).</h3>
