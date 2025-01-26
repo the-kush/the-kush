@@ -1,11 +1,11 @@
 # https://the-kush.vercel.app
 
 <h1 align="center">Hi 👋, I'm Kush Singh</h1>
-<h3 align="center">A passionate full-stack developer, and also a blockchain developer from India. I am currently learning machine learning(to get into the world of Artificial Intelligence).</h3>
+<h3 align="center">A passionate full-stack developer. I am currently learning machine learning(to get into the world of Artificial Intelligence).</h3>
 
 - 🌱 I’m currently learning **Python, TensorFlow**
 
-- 💬 Ask me about **JavaScript, React or nodejs**
+- 💬 Ask me about **JavaScript, React or nodeJs**
 
 - 📫 How to reach me **kushsinghdsc@gmail.com**
 
