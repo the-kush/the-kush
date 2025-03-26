@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1V02whl9u062bY7pMie0clLDyICZvRGQe/view?usp=drive_link](https://drive.google.com/file/d/1V02whl9u062bY7pMie0clLDyICZvRGQe/view?usp=drive_link)
 
-- ⚡ Fun fact **I am an outdoor sports guy who also watches anime.**
+- ⚡ Fun fact **I watch anime as an outdoor sports guy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
